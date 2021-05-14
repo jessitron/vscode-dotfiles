@@ -3,3 +3,5 @@
 echo "Good morning"
 
 alias gs='git status'
+
+export EDITOR=vi
